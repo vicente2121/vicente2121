@@ -64,15 +64,15 @@ Como especialista en ETL y automatización, he trabajado con una variedad de her
 </a>
 
 
-<a href="https://www.facebook.com/tucuentadefacebook">
+<a href="https://www.facebook.com/SolutionsGeeksltgk">
   <img src="https://github.com/vicente2121/vicente2121/assets/72566296/bbd09c5c-b662-4876-9f9b-93c51bb9b3f7" alt="Facebook" width="100" height="100">
 </a>
 
-<a href="https://www.instagram.com/tucuentadeinstagram">
+<a href="https://www.instagram.com/solutionsgeek7">
   <img src="https://github.com/vicente2121/vicente2121/assets/72566296/cd54ca58-879e-4476-81bb-b5e61f521019" alt="Instagram" width="100" height="100">
 </a>
 
-<a href="https://www.youtube.com/tucuentadeyoutube">
+<a href="https://youtube.com/@vicenteantoniomagallanesju5289?si=Pp8_QA2Cok2MblJ9">
   <img src="https://github.com/vicente2121/vicente2121/assets/72566296/77980341-7c5a-49d2-bd3c-e6b6ce5cc9dd" alt="YouTube" width="100" height="100">
 </a>
 
